@@ -343,10 +343,10 @@ body{
 	.banner p{
 	font-size: 10px;
 	line-height: 16px;
-	margin: 0 0;
+	margin-top: 20px;
+	margin-bottom: 0px;
 	}
 	.banner button{
-	margin-top: 20px;
 	padding: 10px 15px;
 	font-size: 13px;
 	}
