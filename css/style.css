@@ -336,6 +336,25 @@ body{
 
 @media only screen and (max-width:425px){
 	
+	/* big-wrapper */
+	.banner h1{
+		font-size: 20px;
+	}
+	.banner p{
+	font-size: 10px;
+	line-height: 16px;
+	margin: 0 0;
+	}
+	.banner button{
+	margin-top: 20px;
+	padding: 10px 15px;
+	font-size: 13px;
+	}
+	.banner{
+		padding-top: 28px;
+		padding-bottom: 58px;
+	}
+	
 	/* media weird-section right */
 	.weird-section .right-section .second-row img{
 		width: 15%;
@@ -346,6 +365,15 @@ body{
 }
 
 @media only screen and (max-width:320px){
+	
+	
+	/* big-wrapper */
+	.banner h1{
+		font-size: 16px;
+	}
+	.banner p{
+	line-height: 11px;
+	}
 	
 	/* media weird-section right */
 	.weird-section .right-section .second-row p{
